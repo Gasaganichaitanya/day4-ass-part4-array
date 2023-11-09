@@ -1,0 +1,7 @@
+D:\mphasis\assignments\day4\part4(array)\ConApp day4 asspart4(array)\ConApp day4 asspart4(array)\bin\Debug\ConApp day4 asspart4(array).exe.config
+D:\mphasis\assignments\day4\part4(array)\ConApp day4 asspart4(array)\ConApp day4 asspart4(array)\bin\Debug\ConApp day4 asspart4(array).exe
+D:\mphasis\assignments\day4\part4(array)\ConApp day4 asspart4(array)\ConApp day4 asspart4(array)\bin\Debug\ConApp day4 asspart4(array).pdb
+D:\mphasis\assignments\day4\part4(array)\ConApp day4 asspart4(array)\ConApp day4 asspart4(array)\obj\Debug\ConApp day4 asspart4(array).csproj.AssemblyReference.cache
+D:\mphasis\assignments\day4\part4(array)\ConApp day4 asspart4(array)\ConApp day4 asspart4(array)\obj\Debug\ConApp day4 asspart4(array).csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\day4\part4(array)\ConApp day4 asspart4(array)\ConApp day4 asspart4(array)\obj\Debug\ConApp day4 asspart4(array).exe
+D:\mphasis\assignments\day4\part4(array)\ConApp day4 asspart4(array)\ConApp day4 asspart4(array)\obj\Debug\ConApp day4 asspart4(array).pdb
